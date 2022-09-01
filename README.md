@@ -6,7 +6,7 @@
   Ignite Feed
 </h1>
 
-<p align="center">Aplicação React com NextJS e TypeScript</p>
+<p align="center">Aplicação React com ViteJS e TypeScript</p>
 
 <p align="center">
   <a href="#">
